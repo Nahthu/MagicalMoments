@@ -71,7 +71,7 @@ main h2 {
 }
 
 .item {
-    background: white;
+    background: #757575;
     border: 1px solid #ddd;
     border-radius: 8px;
     overflow: hidden;
