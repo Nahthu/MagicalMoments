@@ -80,7 +80,7 @@ main h2 {
 }
 
 .item {
-    background: white;
+    background: black;
     border: 1px solid #ddd;
     border-radius: 8px;
     overflow: hidden;
